@@ -4,7 +4,7 @@ private double branchAngle = .2;
 
 public void setup() 
 {   
-  size(660, 480);    
+  size(660, 500);    
   noLoop(); 
 } 
 
